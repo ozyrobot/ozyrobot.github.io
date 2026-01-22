@@ -1,17 +1,21 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Bluetooth Kitchen Thermometer (Demo Only)
+description: (Demo Project)   
+    Oversaw technical aspects required to bring a new product to market, starting from a rough prototype
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
-
+  - Firmware Development
+  -     OTA Support
+  - Technical Product/Team Management
+  - Electrical Review and Revisions
+  - Mechanical and Industrial Design Review
+  - Product Validation
+  - Certification (FCC/IC/CE)
+  - OVersaw Design for Manufacturing
+  - Production Bringup/Rollout
+  - Low Power Design
+impact:
+    30K Units in the Field, with a 1.5+ year battery life, used in commercial kitchens.    This allowed the company to enter several new markets.
 main-image: /project2.jpg
 ---
 
